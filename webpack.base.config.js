@@ -19,7 +19,7 @@ objectAssign(env, {
 module.exports = {
   target: 'web',
 
-  entry: './client/entry.jsx',
+  entry: './client/app.jsx',
 
   output: {
     path: path.join(process.cwd(), '/client'),
@@ -33,8 +33,8 @@ module.exports = {
       'web_modules',
       'node_modules',
       'client'
-    ],
-    extentions: ['js', 'jsx', 'scss']
+    ]
+    // extensions: ['.js', '.jsx', '.scss']
   },
 
   plugins: [
