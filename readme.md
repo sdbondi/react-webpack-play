@@ -1,6 +1,4 @@
-# react-webpack-boilerplate [![Build Status][travis-badge]][travis] [![Coverage Status][coveralls-badge]][coveralls]
-> Simple production-ready boilerplate for [React](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/) (SASS and React hot reloading)
-
+# react-webpack-play 
 Lifted from [https://github.com/srn/react-webpack-boilerplate](https://github.com/srn/react-webpack-boilerplate)
 - Added Comment components from react getting started tutorial
 - Added some Reflux action
